@@ -13,9 +13,9 @@ The task at hand is to:
 
 ### Prior work done.
 
-.. Use JavaScript to load the sightings data into a table
-.. Use JavaScript coding to filter data based on date
-.. Use html, css, d3 and bootstrap to create web page to display the data for analysis.
+...  Use JavaScript to load the sightings data into a table
+...  Use JavaScript coding to filter data based on date
+...  Use html, css, d3 and bootstrap to create web page to display the data for analysis.
 
 
 ## Results
