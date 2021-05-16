@@ -26,7 +26,10 @@ A search/filter can be done on one or more fields as shown in the screen print(2
 To remove any of the filtered fields, simply delete the contents and press Enter. The placeholder will re-appear in that field.
 
 1. UFOs_filter_options.png
+![UFOs_filter_options](https://user-images.githubusercontent.com/78666055/118411907-0febdd00-b665-11eb-837f-14132ef153ee.png)
+
 2. UFOs_filter_example.png
+![UFOs_filter_example](https://user-images.githubusercontent.com/78666055/118411912-167a5480-b665-11eb-8808-231d5adc7eea.png)
 
 
 ## Summary
